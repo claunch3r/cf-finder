@@ -3,6 +3,11 @@
 
 ![1](https://github.com/user-attachments/assets/9875cbd8-b7cd-4e1e-a7fb-5bbb245d1187)
 
+# Installation
+```
+go install -v github.com/claunch3r/cf-finder@latest
+```
+
 # Usage
 ```
 cf-finder -h
