@@ -4,6 +4,9 @@
 # Usage
 ```
 cf-finder -h
+cf-finder -target <ip>
+cf-finder -target <ip-1>,<ip-2>
+cf-finder -file <targets.txt>
 ```
 This will display help for the tool. Here are all the switches it supports.
 ```
