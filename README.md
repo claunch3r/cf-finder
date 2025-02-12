@@ -1,2 +1,2 @@
 # cf-finder
-A utility to determine whether an IP address belongs to Cloudflare or not
+`cf-finder` is a utility that determines whether an IP address belongs to Cloudflare.
